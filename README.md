@@ -23,8 +23,8 @@ Before you can use this script, you'll need to:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/j4ckxyz/site2nostr
+    cd site2nostr
     ```
 
     Replace `your-username` and `your-repository-name` with your actual GitHub username and repository name.
